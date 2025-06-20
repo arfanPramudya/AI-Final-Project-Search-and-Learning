@@ -24,22 +24,6 @@ Markdown
 
 Repository ini berisi kumpulan dua program yang dikembangkan untuk memenuhi tugas Ujian Akhir Semester (UAS) mata kuliah Kecerdasan Buatan. Sesuai dengan referensi dari buku *Artificial Intelligence: A Modern Approach (AIMA)*, proyek ini mencakup implementasi algoritma dari dua teknik AI yang berbeda: **Searching** dan **Learning**.
 
-## 📂 Struktur Repository
-
-Untuk menjaga kerapian, setiap proyek ditempatkan dalam direktorinya masing-masing:
-
-.
-├── Proyek_1_A_Star_Pathfinding/
-│   └── proyek_astar.py
-│
-├── Proyek_2_Decision_Tree_Churn/
-│   ├── proyek_churn.py
-│   └── decision_tree_churn.png
-│
-├── README.md
-└── requirements.txt
-
-
 ---
 
 ##  प्रोजेक्ट 1: Pencarian Rute Optimal dengan Algoritma A*
