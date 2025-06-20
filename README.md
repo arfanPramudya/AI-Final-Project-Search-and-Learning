@@ -26,7 +26,7 @@ Repository ini berisi kumpulan dua program yang dikembangkan untuk memenuhi tuga
 
 ---
 
-##  प्रोजेक्ट 1: Pencarian Rute Optimal dengan Algoritma A*
+##  1: Pencarian Rute Optimal dengan Algoritma A*
 
 Implementasi algoritma pencarian heuristik **A\* (A-Star)** untuk menemukan rute terpendek antara dua kota berdasarkan data koordinat geografis riil.
 
@@ -36,7 +36,7 @@ Implementasi algoritma pencarian heuristik **A\* (A-Star)** untuk menemukan rute
 
 ---
 
-## プロジェクト 2: Klasifikasi Customer Churn dengan Decision Tree
+## 2: Klasifikasi Customer Churn dengan Decision Tree
 
 Implementasi model klasifikasi untuk memprediksi pelanggan yang berpotensi berhenti berlangganan (churn) dari sebuah perusahaan telekomunikasi menggunakan algoritma **Decision Tree**.
 
