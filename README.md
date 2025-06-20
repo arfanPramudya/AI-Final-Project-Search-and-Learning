@@ -2,11 +2,6 @@
 
 Repository ini berisi kumpulan dua program yang dikembangkan untuk memenuhi tugas Ujian Akhir Semester (UAS) mata kuliah Kecerdasan Buatan. Sesuai dengan referensi dari buku *Artificial Intelligence: A Modern Approach (AIMA)*, proyek ini mencakup implementasi algoritma dari dua teknik AI yang berbeda: **Searching** dan **Learning**.
 
-
-# Proyek Akhir Semester: Kecerdasan Buatan
-
-Repository ini berisi kumpulan dua program yang dikembangkan untuk memenuhi tugas Ujian Akhir Semester (UAS) mata kuliah Kecerdasan Buatan. Sesuai dengan referensi dari buku *Artificial Intelligence: A Modern Approach (AIMA)*, proyek ini mencakup implementasi algoritma dari dua teknik AI yang berbeda: **Searching** dan **Learning**.
-
 ---
 
 ##  1: Pencarian Rute Optimal dengan Algoritma A*
