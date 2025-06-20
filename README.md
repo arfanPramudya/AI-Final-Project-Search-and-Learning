@@ -2,23 +2,6 @@
 
 Repository ini berisi kumpulan dua program yang dikembangkan untuk memenuhi tugas Ujian Akhir Semester (UAS) mata kuliah Kecerdasan Buatan. Sesuai dengan referensi dari buku *Artificial Intelligence: A Modern Approach (AIMA)*, proyek ini mencakup implementasi algoritma dari dua teknik AI yang berbeda: **Searching** dan **Learning**.
 
-## 📂 Struktur Repository
-
-Untuk menjaga kerapian, setiap proyek ditempatkan dalam direktorinya masing-masing:
-Tentu saja. Menggabungkan kedua proyek ke dalam satu repository adalah ide yang sangat bagus dan lebih terorganisir untuk pengumpulan tugas UAS.
-
-Berikut adalah beberapa saran nama repository yang profesional dan deskriptif, beserta draf lengkap untuk deskripsi (README.md) yang menggabungkan kedua proyek tersebut.
-
-Saran Nama Repository
-Pilih salah satu yang paling Anda sukai. Nama-nama ini mencerminkan bahwa ini adalah proyek UAS untuk mata kuliah AI.
-
-Proyek-UAS-Kecerdasan-Buatan (Sederhana dan Profesional)
-AI-Final-Project-Search-and-Learning (Deskriptif dan menggunakan istilah Bahasa Inggris)
-Implementasi-Algoritma-AI-UAS (Spesifik dan Jelas)
-Deskripsi Repository Gabungan (untuk file README.md)
-Berikut adalah draf lengkap yang bisa Anda salin-tempel ke file README.md di repository baru Anda.
-
-Markdown
 
 # Proyek Akhir Semester: Kecerdasan Buatan
 
