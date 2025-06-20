@@ -20,7 +20,6 @@ Implementasi model klasifikasi untuk memprediksi pelanggan yang berpotensi berhe
 
 - **Teknik AI:** Learning (Supervised Learning)
 - **File Terkait:** `proyek_churn.py` di dalam folder `Proyek_2_Decision_Tree_Churn/`
-- **Hasil Visualisasi:** `decision_tree_churn.png`
 - **Dataset:** [Telco Customer Churn di Kaggle](https://www.kaggle.com/datasets/beatafaron/telco-customer-churn-realistic-customer-feedback)
 
 ---
